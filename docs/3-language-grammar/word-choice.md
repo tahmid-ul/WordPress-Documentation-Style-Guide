@@ -3,11 +3,13 @@
 [info] **Highlight:** Use common and simple technical terms that can be understood by the majority of readers. [/info]  
 
 Choose words that enhance readability and increase simplicity in your documentation.  
+
 For more information about writing simple, easy-to-understand documentation, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
 
 ## Spelling
 
 In general, use American (US) English. When the spelling of English words differ by locale, use the US spelling.
+
 If you're doubtful of a particular word, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 **Examples**  
@@ -49,7 +51,8 @@ Don't create new ways to describe an existing word.
 [warning] **Not recommended:** The *Gutenberger* blocks are feature-packed. [/warning]  
 [tip] **Recommended:** The blocks in Gutenberg are feature-packed. [/tip]  
 
-Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
+Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command. 
+
 If you have to use a word in a definition that is different from its widely used meaning, explain it with context.
 
 ## Additional resources
